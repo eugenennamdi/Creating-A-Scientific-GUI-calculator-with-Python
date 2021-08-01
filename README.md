@@ -1,2 +1,2 @@
-# Creating-A-Scientific-GUI-calculator-with-Python
-The Scientific Calculator In Python is a simple project developed using Python
+# Tkinter-Scientific_calc
+Scientific calculator using Python GUI -Tkinter
