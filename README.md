@@ -1,2 +1,2 @@
-# Tkinter-Scientific_calc
+# A Simple Scientific Calculator
 Scientific calculator using Python GUI -Tkinter
